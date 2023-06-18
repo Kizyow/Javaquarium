@@ -1,7 +1,7 @@
 # Javaquarium
 
 Un exercice qui permet de mettre en oeuvre toutes les connaissances
-de la programmation objet, voici le sujet original [Javaquarium • Forum • Zeste de Savoir.url](..%2F..%2F..%2FALEXAN%7E1%2FAppData%2FLocal%2FTemp%2FJavaquarium%20%95%20Forum%20%95%20Zeste%20de%20Savoir.url)
+de la programmation objet, voici le sujet original [Javaquarium • Forum • Zeste de Savoir](https://zestedesavoir.com/forums/sujet/447/javaquarium/)
 
 Ce projet représente mon implémentation et est en aucun cas la meilleure solution,
 c'est tout l'objectif de l'exercice, il n'y a pas une seule solution qui est la meilleure.
